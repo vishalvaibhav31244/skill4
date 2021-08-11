@@ -1,0 +1,11 @@
+table {
+  width: 100%;
+  border:2px;
+}
+.example-spacer{
+  flex: 1 1 auto;
+}
+.mat-form-field{
+  font-size: 14px;
+  width:100%;
+}
